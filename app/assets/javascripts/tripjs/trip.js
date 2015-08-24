@@ -255,7 +255,6 @@
           '<a href="#" class="trip-close"></a>',
           '<div class="trip-header">',
             '<div class="trip-title"></div>',
-            '<a href="#" class="trip-close"></a>',
           '</div>',
           '<div class="trip-content"></div>',
           '<div class="trip-progress-wrapper">',
